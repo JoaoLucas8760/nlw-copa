@@ -91,7 +91,7 @@ export default function Home(props: HomeProps) {
             <Image src={icon} alt="" />
             <div className="flex flex-col">
               <span className="font-bold text-2xl">+{props.guessCount}</span>
-              <span>Palpites enviados.</span>
+              <span>Palpites enviados</span>
             </div>
           </div>
         </div>
